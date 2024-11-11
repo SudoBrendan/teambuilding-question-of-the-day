@@ -1,6 +1,6 @@
 // Function to load questions from the questions.txt file
 async function loadQuestions() {
-    const response = await fetch('questions.txt');
+    const response = await fetch('shuffled_questions.txt');
     const text = await response.text();
     return text.split('\n').filter(line => line.trim() !== '');
 }
