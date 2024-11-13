@@ -2,18 +2,66 @@
 
 What’s one project you’re excited about?
 What’s the worst job you ever had?
+What was your first job?
+What's the best perk you've ever enjoyed at any job?
+What's a work tool you couldn't live without?
+If you could trade jobs with anyone for a day, who would it be?
+What’s the most interesting thing you’ve learned at work this year?
+What’s one skill you’ve gained from a job that you use in daily life?
+What's your favorite way to unwind after a long workday?
+What was your least favorite subject in school, and do you use it now in work?
+If you could design your dream workspace, what would it look like?
+Who's the most inspiring person you've worked with?
+What’s a job you'd like to try for a week, just for fun?
+What's your go-to productivity trick?
+What was your dream job growing up?
 
 
 # hobbies
 
 What’s one hobby you enjoy outside of work?
 What’s a hobby or side project you’ve been meaning to take up?
+What clubs/extracurriculars were you in during school?
+Do you play any musical instruments?
+What's a thing outside work you consider yourself to be very good at?
+What is your number one bucket list item?
+If money/time were no object, what would you be doing right now?
+What's a hobby you've picked up recently?
+If you could spend a day doing anything, what would it be?
+What's your favorite way to spend a Sunday?
+Have you ever tried an unusual hobby or activity?
+What's a skill or hobby you admire in others?
+If you could take a class on any subject, what would it be?
+Do you prefer solo hobbies or group activities?
+What's the most challenging hobby you've ever tried?
+What’s the first hobby you remember enjoying?
+If you could master any instrument instantly, which one would it be?
 
 
 # food/drink
 
 What’s the best topping for ice cream?
 If you could safely eat any inedible object, what would it be?
+What food did you hate growing up?
+Would you rather have coffee, tea, or neither?
+What's the weirdest food you've ever eaten?
+What's your favorite meal to cook?
+Which is best: breakfast, lunch, or dinner?
+Would you rather have something sweet or savory?
+What is your favorite dessert?
+What is your favorite breakfast?
+What is your favorite candy?
+What's an appetizer you'd buy for the table just so you can have some?
+If you had to eat one meal for the rest of your life, what would it be?
+What's your go-to comfort food?
+If you could invent a new food combination, what would it be?
+What's the best dish you've ever made?
+What's a popular food you've never tried?
+Are you a "pineapple on pizza" person? Why or why not?
+What's your favorite food from childhood?
+If you were to open a restaurant, what type of food would you serve?
+What's your favorite seasonal treat?
+What's the best food you've ever had while traveling?
 
 
 # entertainment
@@ -27,6 +75,26 @@ What’s the last book you quit reading and why?
 What’s the last movie you quit watching early and why?
 Name a TV show you think is underrated. Describe it in a sentence.
 What’s your guilty pleasure when you have free time during the week?
+Would your favorite genre of TV?
+What music/song gets you out of a funk?
+Would you rather watch a movie at home or in a theater?
+What's your favorite song of all time?
+What's your preferred streaming service?
+What's your favorite band of all time?
+What was your favorite story/book/movie growing up?
+What's the last song you listened to on repeat?
+What's a book/movie/song that was really influential to you?
+What is your favorite music genre?
+What's a movie or show you could watch over and over?
+What's the best live performance you've ever seen?
+If you could be on any reality TV show, which would it be?
+What movie or TV show do you quote the most?
+What's a fictional world you'd never want to live in?
+Who would play you in a movie about your life?
+What’s a character you think would be a great friend?
+Is there a book/tv/movie series you're desperate to know the ending to right now?
+What's your guilty pleasure TV show?
+What’s your favorite podcast, and why?
 
 
 # people/influence
@@ -35,6 +103,16 @@ Who has been a great influence in your life?
 If you could meet anyone in the world, who would it be?
 What do your family or other loved ones think you do for work?
 If you could be one other person, who would that person be and why?
+What's the best compliment you've ever received?
+Who was the most memorable teacher or mentor you've had?
+If you could give a shout-out to anyone, who would it be?
+Who was your childhood hero?
+What's the best advice you've ever given?
+Who inspires you in your field?
+Who in your life would you want to switch places with for a day?
+What's something about you that people often misunderstand?
+If you could have dinner with any historical figure, who would it be?
+What's a quality you admire in others but find hard to practice yourself?
 
 
 # travel/global/culture
@@ -47,6 +125,17 @@ What's your favorite holiday in your culture?
 If you could teleport anywhere, where would you go right now?
 If you could be fluent in another language instantly, which would you choose and why?
 When you’re packing for a trip, what’s one thing (other than clothes) you always bring?
+If you could live in any country for a year, which would it be?
+What’s one cultural tradition from anywhere in the world you find fascinating?
+What’s the best souvenir you’ve ever bought or received?
+If you could magically understand any language, which one would you choose?
+What’s the most interesting place you’ve ever visited?
+What country or culture has the best cuisine, in your opinion?
+What’s a unique tradition or festival you’d love to experience?
+Have you ever gotten lost while traveling? What happened?
+What's a city you've visited that you could see yourself living in?
+What’s a travel tip or trick you swear by?
+What's one item you could never travel without?
 
 
 # goals/ambitions
@@ -55,6 +144,16 @@ What’s one skill you’d love to learn?
 If you could be famous for one thing, what would it be?
 If you could pick up a new skill in an instant, what would it be?
 What would you do if you had a fully paid year-long break from work?
+If you could accomplish one big goal this year, what would it be?
+What's something you'd love to do in your lifetime that scares you?
+What’s the biggest personal challenge you’d like to overcome?
+What's a long-term goal you’re working towards?
+If you could go back to school to study anything, what would you pick?
+Who is someone whose career path inspires you?
+What’s a small habit you’d like to form to improve your daily life?
+What's a skill you've been meaning to master but haven't started yet?
+What’s a personal milestone you’re proud of achieving?
+What’s a project you’ve always wanted to do but never had the time for?
 
 
 # fun
@@ -82,3 +181,61 @@ What’s the most useful item you’ve purchased this year?
 What’s the worst piece of advice you’ve ever been given? And why was it so bad?
 What’s the next item on your bucket list?
 What’s your favorite thing about the place where you live?
+If you could time travel, when would you go to?
+If you could travel to any planet, which would you go to?
+If you could be any animal for a day, which one would you be?
+What’s the most unusual pet you’d consider having?
+If you could switch places with any fictional character for a day, who would it be?
+What’s one ridiculous thing you’d buy if money was no object?
+What’s the funniest thing you believed as a kid?
+If you could be a master chef in one type of cuisine, which would you pick?
+If you were a color, which one would you be, and why?
+What’s a strange or quirky talent you have?
+If you could turn any activity into an Olympic sport, what would you excel at?
+
+
+# other
+
+What's the best advice you ever got?
+What's your favorite time of day?
+If you had an extra hour per day, what would you do with the time?
+What is your favorite season of the year?
+What is your favorite holiday?
+What's a skill you think everyone should have?
+Have you ever met a celebrity? How did it go?
+What’s one daily routine you couldn’t live without?
+If you could instantly change one thing about your day-to-day life, what would it be?
+What’s one subject you wish you knew more about?
+What's your favorite way to start the day?
+If you could describe yourself in three words, what would they be?
+What's something that always brings you joy, no matter what?
+If you had to spend a week with no technology, how would you pass the time?
+What’s something you wish people knew about you?
+
+
+# this or that
+
+Would you rather travel to the past or the future?
+Which would you choose: unlimited books or unlimited movies?
+Would you rather be able to speak every language or play every instrument?
+Do you prefer sunrises or sunsets?
+Would you rather explore space or the deep ocean?
+Would you rather be an instant expert in science or art?
+Would you rather always have to whisper or always have to shout?
+Would you rather read people’s minds or be invisible for a day?
+Would you rather have a personal chef or a personal driver?
+Do you prefer calling or texting?
+Would you rather be able to teleport or be able to fly?
+If you could live in the distant past or far future, which would you choose?
+Would you rather give up your smartphone or your computer?
+Would you rather experience the world’s most beautiful beaches or its most amazing mountains?
+Which would you choose: being the funniest person in the room or the smartest?
+Do you prefer having a planned schedule or being spontaneous?
+Would you rather have the power to control the weather or communicate with animals?
+Would you pick a concert or a theater show if you had to attend a live performance?
+Would you rather have a rewind button or a pause button for life?
+Would you rather have a magical library or an enchanted garden?
+Do you prefer road trips or air travel?
+Would you rather never be stuck in traffic again or never have to wait in line?
+Would you rather live by the beach or in a mountain cabin?
+If you could master painting or dancing, which would you choose?
