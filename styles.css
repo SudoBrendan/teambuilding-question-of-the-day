@@ -53,3 +53,22 @@ h1 {
 p {
     margin-top: 10px;
 }
+
+/* Link to GitHub source styling */
+.source-link {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 0.9em;
+    color: var(--header-color);
+    text-decoration: none;
+    background-color: #ffffffcc; /* Slightly transparent white background */
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+}
+
+.source-link:hover {
+    background-color: #ffffff;
+}
