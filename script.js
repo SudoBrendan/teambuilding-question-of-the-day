@@ -26,7 +26,7 @@ function getDateFromQuery() {
 
 // Function to calculate the weekday-only index based on days since a start date
 function calculateWeekdayIndex(targetDate, questionCount) {
-    const baseDate = new Date("2024-01-01"); // Set your starting date
+    const baseDate = new Date(Date.UTC(2024, 0, 1)); // January is month 0
 
     let weekdaysCount = 0;
     let currentDate = new Date(baseDate);
