@@ -9,12 +9,22 @@ async function loadQuestions() {
 function getDateFromQuery() {
     const params = new URLSearchParams(window.location.search);
     const dateParam = params.get('date');
+    const timestampParam = params.get('timestamp');
 
     if (dateParam) {
+        console.log(`param date: ${dateParam}`)
         // Parse the date as a local date (not UTC) by splitting and setting individual components
         const [year, month, day] = dateParam.split('-').map(Number);
         const parsedDate = new Date(year, month - 1, day); // Month is 0-indexed in Date
 
+        if (!isNaN(parsedDate)) {
+            return parsedDate;
+        }
+    } else if (timestampParam) {
+        console.log(`param timestamp: ${timestampParam}`)
+        const epoch = parseInt(timestampParam, 10)
+        const parsedDate = new Date(epoch*1000)
+        console.log(`parsed date: ${parsedDate}`)
         if (!isNaN(parsedDate)) {
             return parsedDate;
         }
