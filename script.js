@@ -21,7 +21,14 @@ function getDateFromQuery() {
     }
     
     // Default to today if no valid date parameter is provided
-    return new Date();
+    return getCurrentUTCDate();
+}
+
+function getCurrentUTCDate() {
+    const now = new Date().getTime()
+    const utcDate = new Date(now)
+    console.log(`UTC Date: ${utcDate.toDateString()}`);
+    return utcDate;
 }
 
 // Function to calculate the weekday-only index based on days since a start date
